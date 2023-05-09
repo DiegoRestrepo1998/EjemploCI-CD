@@ -1,1 +1,1 @@
-web: java -jar maven-wrapper.jar
+web: java -jar demo-0.0.1-SNAPSHOT.jar
