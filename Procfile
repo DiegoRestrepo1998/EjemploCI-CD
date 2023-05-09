@@ -1,1 +1,1 @@
-web: java -jar EjemploCI-CD.jar
+web: java -jar maven-wrapper.jar
