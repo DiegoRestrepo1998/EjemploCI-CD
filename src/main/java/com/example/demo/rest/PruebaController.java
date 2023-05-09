@@ -10,6 +10,6 @@ public class PruebaController{
 
     @GetMapping
     public String helloWorld(){
-        return "Hello World. probando CI/CD automaticos. Ahora debe publicar de manera automatica";
+        return "Hello World. Realizando prueba final 09052023 5:15 pm";
     }
 }
