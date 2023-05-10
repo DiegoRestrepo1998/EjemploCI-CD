@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+@CrossOrigin(origins = "https://env-tomcat.eba-t5k3c7ej.us-east-2.elasticbeanstalk.com")
 @RequestMapping("/prueba")
 public class PruebaController{
 
