@@ -10,6 +10,6 @@ public class PruebaController{
 
     @GetMapping
     public String helloWorld(){
-        return "Hello World. Realizando prueba final 09052023 7:13 pm";
+        return "Hello World. Realizando prueba final 10052023 3:13 pm";
     }
 }
